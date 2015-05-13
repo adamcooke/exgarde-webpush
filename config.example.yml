@@ -1,0 +1,8 @@
+webpush_token: xxx
+webpush_secret: xxx
+
+database_username: xxx
+database_password: xxx
+database_host: xxx
+database_port: xxx
+database_name: xxx
